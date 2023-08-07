@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanjilh136
 - 👀 I’m interested in ArtificaL Intelligence 
-- 🌱 I’m currently learning about deep science
+- 🌱 I’m currently learning about data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my mail tanjilh136@gmail.com
 
