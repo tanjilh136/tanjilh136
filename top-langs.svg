@@ -3,7 +3,7 @@
   <rect x="0" y="0" width="600" height="200" fill="white" shape-rendering="crispEdges"/>
 
   <text x="10" y="20" font-size="16px" font-family="Arial" font-weight="bold" fill="#333">
-    Most Used Languages (Custom)
+    Most Used Languages 
   </text>
 
   <!-- Python -->
