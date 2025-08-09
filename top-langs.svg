@@ -1,0 +1,41 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="20" font-size="16px" font-family="Arial" font-weight="bold" fill="#333">
+    Most Used Languages (Custom)
+  </text>
+
+  <!-- Python -->
+  <rect x="10" y="40" width="400" height="18" fill="#3572A5" />
+  <text x="420" y="54" font-size="12px" font-family="Arial" fill="#333">
+    Python (97%)
+  </text>
+
+  <!-- JavaScript -->
+  <rect x="10" y="66" width="202" height="18" fill="#f1e05a" />
+  <text x="222" y="80" font-size="12px" font-family="Arial" fill="#333">
+    JavaScript (49%)
+  </text>
+
+  <!-- Hack -->
+  <rect x="10" y="92" width="32.16" height="18" fill="#878787" />
+  <text x="52.16" y="106" font-size="12px" font-family="Arial" fill="#333">
+    Hack (7.8%)
+  </text>
+
+  <!-- SCSS -->
+  <rect x="10" y="118" width="16.87" height="18" fill="#c6538c" />
+  <text x="36.87" y="132" font-size="12px" font-family="Arial" fill="#333">
+    SCSS (4.1%)
+  </text>
+
+  <!-- Java -->
+  <rect x="10" y="144" width="11.63" height="18" fill="#b07219" />
+  <text x="31.63" y="158" font-size="12px" font-family="Arial" fill="#333">
+    Java (2.82%)
+  </text>
+
+  <!-- PHP -->
+  <rect x="10" y="170" width="61.86" height="18" fill="#4F5D95" />
+  <text x="81.86" y="184" font-size="12px" font-family="Arial" fill="#333">
+    PHP (15%)
+  </text>
+</svg>
