@@ -71,5 +71,6 @@ Practical engineer turning messy, real-world data into reliable systems and usab
 - **LinkedIn:** https://www.linkedin.com/in/tanjil-hasan-650246169/  
 - **Fiverr (Pro):** https://www.fiverr.com/tanjilh136
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilh136&layout=compact&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilh136&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,Shell)
+
 
